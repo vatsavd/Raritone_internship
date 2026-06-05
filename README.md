@@ -4,7 +4,7 @@
 Fashion E-Commerce Analytics, Customer Intelligence & Virtual Try-On Insights
 
 ## Intern Details
-Name: Nandini
+Name: Srivatsav D L S S 
 Role: Data Analyst Intern
 Organization: Raritone
 
@@ -232,6 +232,6 @@ The project successfully demonstrated how analytics can be used to understand cu
 --------------------------------------------------
 
 Author:
-Nandini
+SriVatsav D L S S
 Data Analyst Intern
 Raritone
